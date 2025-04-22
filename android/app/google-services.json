@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643587438820",
+    "project_id": "sokolovchat",
+    "storage_bucket": "sokolovchat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643587438820:android:734dc6401a900d780e54f1",
+        "android_client_info": {
+          "package_name": "com.example.sokolov_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1bVUypPq7WUnGv-ssS06D-jpDczBplFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
