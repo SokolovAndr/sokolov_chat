@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![video](https://github.com/SokolovAndr/sokolov_chat/blob/main/demonstration.webm)
+![Video alt](https://github.com/SokolovAndr/sokolov_chat/blob/main/demonstration.webm)
